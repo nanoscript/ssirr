@@ -12,7 +12,7 @@ for the task at hand. Tested and working with Mega2560.
 File edited and re-released by dave@xtechgeek.com
 
 Point a remote at the receiver, push a button. Info can be viewed
-from Arduino serial monitor. Record the received info and the botton 
+from Arduino serial monitor. Record the received info and the button 
 it corrosponds with. 
 Sometimes the receiver is succeptable to interference, it is very
 easy to notice and dismiss the false signals.
