@@ -9,7 +9,7 @@ signals.
 This version of this program is meant to be as simple as possible
 for the task at hand. Tested and working with Mega2560. 
 
-File edited and re-released by dave@xtechgeek.com
+File edited and re-released by xclusive585@gmail.com
 
 Point a remote at the receiver, push a button. Info can be viewed
 from Arduino serial monitor. Record the received info and the button 
